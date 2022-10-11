@@ -1,0 +1,5 @@
+# token
+src/main/resources/config/token
+
+target/
+.idea
